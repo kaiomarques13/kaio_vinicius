@@ -1,0 +1,194 @@
+
+	========================================================================
+	NOME: Kaio Vinícius Marques de Lucena Sousa
+	E-MAIL: kaiolucena13@gmail.com
+	DESCRIÇÃO: Exercício O cliente mudou de ideia e a entrega vai ser maior! 
+	DATA: 28/07/2021
+	========================================================================
+
+	----------------------MENU-------------------------------
+	|	1 - ANO NASCIMENTO E TAMANHO DO NOME           	|
+	|	2 - OPERAÇÕES MATEMÁTICAS                      	|
+	|	3 - CONVERSOR DE FAHRENHEIT PARA CELSIUS       	|
+	|	4 - CALCULO DO FATORIAL                        	|
+	|	5 - BOAS VINDAS DE ACORODO COM O HORÁRIO       	|
+	|	6 - ARRAY MEDIA NUMEROS                        	|
+	|	7 - TABUADA EM MATRIZ(MULTIPLICAÇÃO)           	|
+	|	8 - MATRIZ DOUBLE 5 X 3                        	|
+	|	0 - SAIR                                       	|
+	---------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	|	1 - ANO NASCIMENTO E TAMANHO DO NOME	|
+
+	KAIO MARQUES 
+	SEU ANO DE NASCIMENTO: 1989
+	O TAMANHO DO SEU NOME : 11 
+
+
+--------------------------------------------------------------------------------
+	|	2 - MATEMATICA	|
+
+	 A SOMA DOS DOIS NUMEROS: 5
+	 O PRODUTO DO PRIMEIRO PELO QUADARDO DO SEGUNDO: 18
+	 O QUADRADO DO PRIMEIRO: 4
+	 A RAIZ DA SOMA DOS QUADRADOS: 3,61
+	 O SENO DA DIFERENÇA DO PRIMEIRO NÚMERO PELO SEGUNDO: -0,84
+	 O MÓDULO DO PRIMEIRO NUMERO: 2
+--------------------------------------------------------------------------------
+	|	3 - CONVERSOR 	|
+
+	 O VALOR CONVERTIDO EM CELSIUS É: 93,33°
+--------------------------------------------------------------------------------
+	|	4 - FATORIAL 	|
+
+	FATORIAL CALCULADO: 720
+
+
+--------------------------------------------------------------------------------
+	|	5 - EXERCÍCIO 1	|
+	BOA NOITE!
+--------------------------------------------------------------------------------
+	|	6 - ARRAY MEDIA NUMEROS	|
+	DIGITE UM NUMERO: 1
+	DIGITE UM NUMERO: 2
+	DIGITE UM NUMERO: 3
+	DIGITE UM NUMERO: 4
+	DIGITE UM NUMERO: 5
+	DIGITE UM NUMERO: 6
+	DIGITE UM NUMERO: 7
+	DIGITE UM NUMERO: 8
+	DIGITE UM NUMERO: 9
+	DIGITE UM NUMERO: 1
+	MÉDIA: 4,60 
+
+--------------------------------------------------------------------------------
+	|	7 - TABUADA EM MATRIZ(SOMA)	|
+	TABUADA DE MULTIPLICAÇÃO: 0
+	0 X 0 = 0 
+	0 X 1 = 0 
+	0 X 2 = 0 
+	0 X 3 = 0 
+	0 X 4 = 0 
+	0 X 5 = 0 
+	0 X 6 = 0 
+	0 X 7 = 0 
+	0 X 8 = 0 
+	0 X 9 = 0 
+	TABUADA DE MULTIPLICAÇÃO: 1
+	1 X 0 = 0 
+	1 X 1 = 1 
+	1 X 2 = 2 
+	1 X 3 = 3 
+	1 X 4 = 4 
+	1 X 5 = 5 
+	1 X 6 = 6 
+	1 X 7 = 7 
+	1 X 8 = 8 
+	1 X 9 = 9 
+	TABUADA DE MULTIPLICAÇÃO: 2
+	2 X 0 = 0 
+	2 X 1 = 2 
+	2 X 2 = 4 
+	2 X 3 = 6 
+	2 X 4 = 8 
+	2 X 5 = 10 
+	2 X 6 = 12 
+	2 X 7 = 14 
+	2 X 8 = 16 
+	2 X 9 = 18 
+	TABUADA DE MULTIPLICAÇÃO: 3
+	3 X 0 = 0 
+	3 X 1 = 3 
+	3 X 2 = 6 
+	3 X 3 = 9 
+	3 X 4 = 12 
+	3 X 5 = 15 
+	3 X 6 = 18 
+	3 X 7 = 21 
+	3 X 8 = 24 
+	3 X 9 = 27 
+	TABUADA DE MULTIPLICAÇÃO: 4
+	4 X 0 = 0 
+	4 X 1 = 4 
+	4 X 2 = 8 
+	4 X 3 = 12 
+	4 X 4 = 16 
+	4 X 5 = 20 
+	4 X 6 = 24 
+	4 X 7 = 28 
+	4 X 8 = 32 
+	4 X 9 = 36 
+	TABUADA DE MULTIPLICAÇÃO: 6
+	6 X 0 = 0 
+	6 X 1 = 6 
+	6 X 2 = 12 
+	6 X 3 = 18 
+	6 X 4 = 24 
+	6 X 5 = 30 
+	6 X 6 = 36 
+	6 X 7 = 42 
+	6 X 8 = 48 
+	6 X 9 = 54 
+	TABUADA DE MULTIPLICAÇÃO: 7
+	7 X 0 = 0 
+	7 X 1 = 7 
+	7 X 2 = 14 
+	7 X 3 = 21 
+	7 X 4 = 28 
+	7 X 5 = 35 
+	7 X 6 = 42 
+	7 X 7 = 49 
+	7 X 8 = 56 
+	7 X 9 = 63 
+	TABUADA DE MULTIPLICAÇÃO: 8
+	8 X 0 = 0 
+	8 X 1 = 8 
+	8 X 2 = 16 
+	8 X 3 = 24 
+	8 X 4 = 32 
+	8 X 5 = 40 
+	8 X 6 = 48 
+	8 X 7 = 56 
+	8 X 8 = 64 
+	8 X 9 = 72 
+	TABUADA DE MULTIPLICAÇÃO: 9
+	9 X 0 = 0 
+	9 X 1 = 9 
+	9 X 2 = 18 
+	9 X 3 = 27 
+	9 X 4 = 36 
+	9 X 5 = 45 
+	9 X 6 = 54 
+	9 X 7 = 63 
+	9 X 8 = 72 
+	9 X 9 = 81 
+
+--------------------------------------------------------------------------------
+	|	8 - MATRIZ DOUBLE 5 X 3	|
+
+	 SOMA COLUNA PAR: 80,00
+	 SOMA COLUNA IMPAR: 40,00
+	 MEDIA COLUNA PAR: 16,00
+	 MEDIA COLUNA IMPAR: 8,00
+	 DIFERENÇA DAS MEDIAS DAS COLUNAS PARES PELAS IMPARES: 8,00
+
+
+--------------------------------------------------------------------------------
+	|	0 - SAIR	|
+
+		ENCERRANDO
+
+		10
+		9
+		8
+		7
+		6
+		5
+		4
+		3
+		2
+		1
+
+
+============================FIM===================================

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1627476767 source:c:\users\alex\documents\c\exercícios accenture\exercicio_02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+
